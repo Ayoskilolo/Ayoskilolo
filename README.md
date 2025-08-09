@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayo :)
-- 👀 I’m interested in software development and data engineering.
-- 🌱 I’m currently learning nestjs and quasar for vuejs.
-- 💞️ I’m looking to collaborate with on similar minded people.
+- 👋 Hi, I’m Ayomideninuoluwa Afolabi, you can all my Ayo :)
+- 👀 I’m interested in software development, data engineering.
+- 🌱 I’m currently learning to type faster with typing.com.
+- 💞️ I’m looking to build cool stuff with people responsibly.
 - 📫 How to reach me @ayoskilolo_ on Twitter and IG.
 <!---
 Ayoskilolo/Ayoskilolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
